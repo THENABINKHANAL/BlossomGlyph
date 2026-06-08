@@ -13,6 +13,7 @@ This repository contains the source code, study materials, raw data, statistical
 | `blossom_analyses.sas` | SAS script that loads the CSV files and runs the Generalized Linear Mixed Model (GLMM) analyses. |
 | `GLMM_correctness_time_results.xlsx` | Output of the GLMM analyses for correctness and response time, formatted as an Excel workbook. |
 | `blossom_combined_report.pdf` | Combined report summarizing the study, methodology, and results. |
+| `Subjective Feedback_Design Domain Experts.xlsx` | Anonymized aesthetic feedback from five designers. |
 
 ## Study Overview
 
